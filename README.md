@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 I'm Mwangi, John Clinton
 
-<!--
-**MwangiCJ/MwangiCJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate software developer dedicated to creating efficient and innovative solutions. I enjoy tackling complex problems and turning them into simple, beautiful code.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages**: Java, C#, Python, JavaScript
+- **Frontend**: HTML5, CSS3, React
+- **Backend**: Node.js, Express, Django
+- **Databases**: MongoDB, PostgreSQL
+- **Tools**: Git, Docker, AWS
+- **Testing**: Jest, PyTest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MwangiCJ&show_icons=true&theme=radical)
+
+## 🌱 Currently Learning
+- Advanced System Design
+- Cloud Architecture
+- Machine Learning
+- Cyber security
+
+## � Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/mwangicj/)
+
+
+---
+💬 Feel free to reach out for collaborations or just a friendly chat!
