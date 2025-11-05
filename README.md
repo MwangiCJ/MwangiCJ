@@ -1,98 +1,146 @@
-# 👋 Hi, I'm John Clinton Mwangi  
-**Software Engineer | API Developer | Integration Specialist | Java & Spring Boot Expert**  
-📍 Nairobi, Kenya  
-📧 [mwangicj@gmail.com](mailto:mwangicj@gmail.com) | 🌐 [linkedin.com/in/mwangicj](https://linkedin.com/in/mwangicj)
+<!-- GitHub Profile README for John Clinton Mwangi -->
+
+<h1 align="center">👋 Hi, I'm John Clinton Mwangi</h1>
+<h3 align="center">💻 Software Engineer | API Developer | Integration Specialist</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-7%2B%20Years-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Java%20%7C%20Spring%20Boot%20%7C%20APIs-orange?style=flat-square" />
+</p>
 
 ---
 
 ## 🧑‍💻 About Me  
-I'm an experienced **Software Engineer** with over **7 years** of hands-on expertise in building and deploying **enterprise-grade software solutions**.  
-I specialize in **Java**, **Spring Boot**, and **API development**, with proven success in delivering scalable and secure digital platforms for millions of users.  
 
-I’m passionate about designing clean architectures, mentoring teams, and automating workflows to boost efficiency and reliability in large-scale systems.
+I'm a **Software Engineer** with over **7 years** of experience in designing and developing **enterprise-grade software solutions**.  
+My passion lies in **building scalable systems**, **developing APIs**, and **integrating complex platforms** to serve millions of users across industries.  
+
+I enjoy collaborating on cross-functional teams, mentoring developers, and automating workflows that improve productivity and system reliability.
 
 ---
 
 ## 💼 Professional Experience  
 
-### **Software Engineer — KCB Bank Group**  
-📅 *May 2022 – Present | Nairobi, Kenya*  
-- Led development and launch of **Hustler Fund**, collaborating with **Safaricom**, **Airtel**, and **Telkom Kenya**.  
-- Built secure **financial transaction APIs** integrating client ERP systems to streamline payments.  
-- Designed **self-service banking features** for insurance purchases via the KCB mobile app.  
-- Automated key banking processes, achieving a **60% reduction in processing time**.  
-- Integrated partner APIs and developed scalable **open banking APIs** to enhance service reach.  
-- Mentored graduate engineers and contributed to the design of **microservices architectures**.  
+<details>
+<summary>📘 <b>Software Engineer — KCB Bank Group (May 2022 – Present)</b></summary>
 
-### **Enterprise Integration Engineer — Safaricom PLC**  
-📅 *Oct 2018 – May 2022 | Nairobi, Kenya*  
-- Integrated enterprise systems via **SOAP** and **RESTful APIs** to improve service delivery.  
-- Automated **data center switchover** using **RPA** and **Shell scripting**, cutting BCP test time by 67%.  
-- Deployed **containerized microservices** using **Kubernetes** and **Red Hat OpenShift**.  
-- Implemented proactive monitoring and load balancing with **Nginx** and **F5** for high availability.  
-- Conducted **peer code reviews** and provided **third-line support** for escalated production issues.  
+- 🚀 Led development and launch of the **Hustler Fund** in collaboration with **Safaricom**, **Airtel**, and **Telkom Kenya**.  
+- 🔐 Designed and developed **financial transaction APIs** integrating corporate client ERP systems.  
+- 💡 Built **self-service banking features** (insurance purchase) for KCB mobile app.  
+- ⚙️ Automated key banking processes — achieved **60% reduction** in processing time.  
+- 🌐 Integrated partner APIs and developed **secure open banking APIs**.  
+- 👥 Mentored graduate engineers and contributed to **microservices architecture** improvements.  
+</details>
 
-### **Full Stack Developer — Softcom Business Solutions LTD**  
-📅 *Feb 2017 – Oct 2018 | Nairobi, Kenya*  
-- Led development of **CareSoft**, a hospital information management system using **.NET MVC 5**.  
-- Built **Jilinde Android app** for nationwide data collection with offline sync capabilities.  
-- Integrated **M-Pesa Express** into the company’s e-commerce platform for seamless payments.  
+<details>
+<summary>📗 <b>Enterprise Integration Engineer — Safaricom PLC (Oct 2018 – May 2022)</b></summary>
 
-### **Volunteer IT Support — Technical University of Kenya**  
-📅 *Apr 2016 – Jul 2016 | Nairobi, Kenya*  
-- Expanded and upgraded the university’s **LAN infrastructure** for better connectivity.  
-- Installed and maintained hardware/software and supported staff with technical issues.  
+- 🔄 Integrated enterprise systems using **SOAP** and **RESTful APIs**.  
+- 🤖 Automated **data center switchover** with **RPA** and **Shell scripting**, reducing test time by 67%.  
+- ☁️ Built and deployed **containerized microservices** with **Kubernetes** & **OpenShift**.  
+- 📊 Implemented **monitoring and load balancing** via **Nginx** and **F5**.  
+- 🧩 Conducted **peer code reviews** and provided **third-line production support**.  
+</details>
+
+<details>
+<summary>📙 <b>Full Stack Developer — Softcom Business Solutions LTD (Feb 2017 – Oct 2018)</b></summary>
+
+- 🏥 Led the development of **CareSoft**, a hospital information system using **.NET MVC 5**.  
+- 📱 Developed **Jilinde Android app** with offline sync for nationwide data collection.  
+- 💳 Integrated **M-Pesa Express payments** into e-commerce solutions.  
+</details>
+
+<details>
+<summary>📒 <b>Volunteer IT Support — Technical University of Kenya (Apr 2016 – Jul 2016)</b></summary>
+
+- 🖧 Expanded and upgraded **LAN infrastructure** across the university.  
+- 🧰 Installed and maintained IT systems, ensuring peak performance.  
+- 💬 Provided user support and troubleshooting.  
+</details>
 
 ---
 
 ## 🎓 Education  
-**Bachelor of Science in Information Science**  
+🎓 **Bachelor of Science in Information Science**  
 *Technical University of Kenya (2013 – 2017)*  
 
 ---
 
 ## 🧠 Certifications  
-- **ITIL® Foundation Certificate in IT Service Management** – AXELOS (2021)  
-- **UIPath Robotic Process Automation** – LinkedIn Learning (2020)  
-- **Java Data Structures** – LinkedIn Learning (2019)  
-- **Scrum Fundamentals** – ScrumStudy (2018)  
-- **Agile Foundations** – LinkedIn Learning (2021)  
+
+| Certification | Issuer | Year |
+|---------------|---------|------|
+| 🧩 ITIL® Foundation Certificate in IT Service Management | AXELOS | 2021 |
+| 🤖 UIPath Robotic Process Automation | LinkedIn Learning | 2020 |
+| ☕ Java Data Structures | LinkedIn Learning | 2019 |
+| 🌀 Scrum Fundamentals | ScrumStudy | 2018 |
+| ⚙️ Agile Foundations | LinkedIn Learning | 2021 |
 
 ---
 
-## ⚙️ Technical Skills  
-**Languages:** Java, C#, JavaScript  
-**Frameworks & Tools:** Spring Boot, .NET MVC, Kubernetes, OpenShift  
-**APIs:** RESTful, SOAP  
-**Automation:** RPA, Shell Scripting  
-**Databases:** SQL, NoSQL  
-**Containerization:** Docker, Kubernetes  
-**Web Servers:** Nginx, F5  
-**Version Control:** Git  
-**Practices:** Microservices, Agile, Scrum, DevOps, ITIL  
+## ⚙️ Tech Stack  
+
+### 🧰 Languages  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🧩 Frameworks & Tools  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![.NET MVC](https://img.shields.io/badge/.NET%20MVC-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+
+### 🧱 Databases & APIs  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-%23F50057.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
+![SOAP](https://img.shields.io/badge/SOAP-API-blue?style=for-the-badge)
+
+### 🐳 DevOps & Tools  
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![F5](https://img.shields.io/badge/F5%20Load%20Balancer-%23E41E26.svg?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🤝 Soft Skills  
-- Team Collaboration & Mentoring  
-- Analytical Problem Solving  
-- Project Management  
-- Effective Communication  
-- Customer Support Excellence  
+
+🧠 Problem Solving • 👥 Team Collaboration • 🧭 Project Management  
+🗣️ Effective Communication • 🎯 Mentoring • 💼 Customer Support  
 
 ---
 
 ## 🌱 Currently Exploring  
-- Cloud-native architectures (AWS, Azure)  
-- Advanced API Gateway integrations  
-- Developer Experience (DX) optimization  
+- ☁️ **Cloud-native architectures (AWS & Azure)**  
+- 🔗 **API Gateway and Open Banking integrations**  
+- ⚡ **Improving Developer Experience (DX)**  
 
 ---
 
-## 📫 Let’s Connect  
-💼 [LinkedIn](https://linkedin.com/in/mwangicj)  
-📧 [mwangicj@gmail.com](mailto:mwangicj@gmail.com)
+## 📊 GitHub Activity  
 
-> “Clean code and scalable systems are the foundation of great software engineering.”
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mwangicj&show_icons=true&theme=tokyonight" alt="John's GitHub stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwangicj&theme=tokyonight" alt="John's GitHub streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mwangicj&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
 
 ---
+
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="mailto:mwangicj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mwangicj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/mwangicj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+> 💬 *“Clean code and scalable systems are the foundation of great software engineering.”*  
+> — John Clinton Mwangi
